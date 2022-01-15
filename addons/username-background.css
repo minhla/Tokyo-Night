@@ -11,9 +11,9 @@
   left: -4px;
   z-index: -1;
 }
-.compact-2Nkcau .headerText-2z4IhQ > .username-h_Y3Us::after {
+/* .compact-2Nkcau .headerText-2z4IhQ > .username-h_Y3Us::after {
   content: ":";
-}
+} */ /* Removed the colon after users' name */
 
 /* Cozy Mode */
 .cozy-VmLDNB .headerText-2z4IhQ > .username-h_Y3Us::before {
@@ -29,9 +29,9 @@
   /* repairs left shift*/
   left: -3px;
 }
-.cozy-VmLDNB .headerText-2z4IhQ > .username-h_Y3Us::after {
+/* .cozy-VmLDNB .headerText-2z4IhQ > .username-h_Y3Us::after {
   content: ":";
-}
+} */ /* Removed the colon after users' name */
 /* repairs left shift */
 .cozy-VmLDNB .headerText-2z4IhQ > .username-h_Y3Us {
   margin-left: 3px;
