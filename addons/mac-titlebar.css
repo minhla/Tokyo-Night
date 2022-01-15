@@ -3,7 +3,7 @@
   --close-button-color: #e92a2ade;
   --maximize-button-color: #f7bc1bde;
   --minimize-button-color: #12db33de;
-  --button-position: row;
+  --button-position: row-reverse; /* row for Mac, row-reverse for Windows */
 }
 
 .withFrame-2dL45i {
